@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themain-parsa-dev&label=Profile%20views&color=0e75b6&style=flat" alt="themain-parsa-dev" /> </p>
 
-- 🔭 I’m currently working on **Mashti Yar tg**
+- 🔭 I’m currently working on **Big Yar tg**
 
 - 🌱 I’m currently learning **php**
 
