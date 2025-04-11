@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [gtihub.com/themain-parsa-dev](gtihub.com/themain-parsa-dev)
 
-- 📝 I regularly write articles on [themainparsadev.ct.ws](themainparsadev.ct.ws)
+
 
 - 💬 Ask me about **php , Assembly , Python And C/C++**
 
-- 📫 How to reach me **t.me/themainparsadev**
+
 
 - ⚡ Fun fact **I Think Assembly Is Easy ,,,**
 
